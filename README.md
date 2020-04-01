@@ -1326,6 +1326,7 @@ Enumeration listing possible app types.
 |`SYSTEM`||
 |`PROJECTION`||
 |`REMOTE_CONTROL`||
+|`WEB_VIEW`||
 
 
 ### PredefinedLayout

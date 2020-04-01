@@ -2645,6 +2645,7 @@
         <element name="SYSTEM" />
         <element name="PROJECTION" since="4.5" />
         <element name="REMOTE_CONTROL" since="4.5" />
+        <element name="WEB_VIEW" since="6.3" />
     </enum>         
 
     <enum name="PredefinedLayout" platform="documentation" since="3.0">
